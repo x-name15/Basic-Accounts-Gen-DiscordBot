@@ -1,5 +1,7 @@
 # Basic-Accounts-Gen-DiscordBot
-This is a accounts generator discord bot
+This is a accounts generator discord bot, so um readme xd)?
+
+- I was bored and I made this source for you to use, so I think it will be useful
 
 - Again, yes, today I bring you a account gen for discord, with logger in a webhook, again yes.
 
