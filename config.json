@@ -1,0 +1,9 @@
+{
+    "token": "Token-Here",
+    "prefix": "Prefix",
+    "RPC": "A generator Bot x-name15",
+    "webhook": "https://discord.com/api/webhooks/XXXXXXXX/WXYZ",
+    "version": "1.1",
+    "rate": "1",
+    "per": "15"
+}
